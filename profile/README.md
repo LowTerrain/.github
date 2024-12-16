@@ -1,5 +1,4 @@
-## Hi there 👋
-## Welcome To LowTerrain!
+## Hi there 👋 Welcome To LowTerrain!
 
 <!--
 
